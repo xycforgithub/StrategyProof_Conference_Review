@@ -12,7 +12,9 @@ Please cite the above paper if you use this code or data.
 1. To compare the similarity score with Divide-and-Rank partition and without:
 
 ``` > cd DivideClusters ```
+
 ``` > python compare_sim.py ```
+
 2. To compute the similarity score with random partition: In the same folder run
 
 ``` > python compare_sim.py --compute_random```
