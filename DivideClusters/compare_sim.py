@@ -14,14 +14,16 @@ args = parser.parse_args()
 # parameters
 min_reviewer_per_paper = 3
 max_paper_per_reviewer = 6
-use_first_100 = True  # change to True to test
-compute_full = False
-num_iters = 20
+use_first_100 = False  # change to True to test
+compute_full = True
+num_iters = 1
 rand_parti_scores = np.zeros(num_iters)
 compute_random = args.compute_random
 
-scores = np.load("../iclr2018.npz", allow_pickle=True)
+scores = np.load("../iclr2018_all.npz", allow_pickle=True)
 author_idx, paper_idx, smatrix = scores["author_idx"], scores["paper_idx"], scores["similarity_matrix"]
+mask_matrix = scores["mask_matrix"]
+smatrix *= 1.0 - mask_matrix
 data = pickle.load(open('../iclr/2018/papers_info.pkl', 'rb'))
 
 author_idx = author_idx.item()

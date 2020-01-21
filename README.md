@@ -21,5 +21,13 @@ Please cite the above paper if you use this code or data.
 
 ## Use similarity matrix
 
-The matrix is at ```iclr2018.npz```. Each line corresponds to an author and each column corresponds to a paper. The score between [0,1] represents the similarity.
+The matrix is at ```iclr2018.npz```. 
 
+```
+import numpy as np
+scores = np.load("iclr2018_all.npz", allow_pickle=True)
+similarity_matrix = scores["similarity_matrix"]
+mask_matrix = scores["mask_matrix"]
+```
+
+Each line in ```similarity_matrix``` and ```mask_matrix``` corresponds to an author and each column corresponds to a paper. The score between [0,1] represents the similarity, and the mask in {0,1} represents the conflicts.
