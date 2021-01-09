@@ -1,0 +1,2748 @@
+jianqi ma
+antoine bosselut
+tamim asfour
+bishal thapa
+yonatan loewenstein
+dhruva tb
+dillon maloney
+vadim popov
+michel besserve
+rachit dubey
+alexandre péré
+marwin segler
+andrew patterson
+hongning wang
+guy koren
+daniel cremers
+yujun lin
+gabriel barthmaron
+dawn song
+ali jadbabaie
+kostas daniilidis
+prameesha sandamal weerasinghe
+tom erez
+huan xu
+andreas veit
+conrad d james
+kuanta chen
+surya bhupatiraju
+david sontag
+matthias reisser
+judy hoffman
+gonzalo mena
+hugo berard
+dan levi
+matthew j a smith
+changsheng xu
+jose m f  moura
+zhuxi jiang
+thomas robert
+yizhou wang
+omar bentahar
+tao qin
+joao felipe santos
+ryota tomioka
+hyokun yun
+amitabh basu
+claire donnat
+yoel zeldes
+alexander g anderson
+kangwook lee
+jianyu wang
+shanhung wu
+zsolt kira
+balázs hidasi
+herbert jaeger
+markus gross
+cenk baykal
+yanjun qi
+chelsea finn
+srivatsan ramesh
+william j dally
+christian poellabauer
+carl vondrick
+philemon brakel
+benjamin eysenbach
+federico tombari
+bernt schiele
+alex nevidomsky
+haobo fu
+yu qian
+ge yang
+philipp hennig
+neil houlsby
+aleksander wieczorek
+jialu wang
+changhu wang
+carlos esteves
+david lopezpaz
+konstantinos skianis
+eran malach
+jonas köhler
+andrew mccallum
+jordi gonzàlez
+yi zhou
+damian murezzan
+murtaza dalal
+alexander ku
+shantanu thakoor
+rif a saurus
+sneha kudugunta
+kelvin xu
+pieterjan kindermans
+kevin murphy
+taesung lee
+czesław jędrzejek
+alex irpan
+andrew ilyas
+james z wang
+jimmy ba
+ke wang
+minhwan oh
+byoungtak zhang
+alan doomri
+anna rumshisky
+dan feldman
+xingyu liu
+amr ahmed
+mikhail yurochkin
+tobias weis
+benjamin scellier
+james henderson
+zelin ye
+razvan pascanu
+jundongliu
+igor gitman
+zhiming zhou
+jitendra malik
+michal drozdzal
+prannay khosla
+qi lei
+chris pal
+maksims volkovs
+jacopo cavazza
+charlie nash
+tu dinh nguyen
+leslie n smith
+nevan wichers
+deepak pathak
+yann n dauphin
+yann dauphin
+bo li
+zhaoyang lv
+patrick mcdaniel
+dimitris tsipras
+pavle djordjevich
+mattias teye
+anna levit
+david daniel cox
+vibhav gogate
+zoubin ghahramani
+kelvin guu
+paul vicol
+marco ancona
+samyam rajbhandari
+chuan guo
+athul paul jacob
+ameet talwalkar
+m pawan kumar
+jacob menick
+amnon shashua
+xiaodan zhu
+jonathan seah
+aäron van den oord
+james davidson
+nan du
+ram ramanathan
+homa karimabadi
+abram l friesen
+ben usman
+james t kwok
+michael moeller
+mitesh khapra
+guy w cole
+michael blot
+rahul anand sharma
+xiangyong cao
+neil c rabinowitz
+timothy lillicrap
+qian you
+robin winter
+tom kwiatkowski
+sam devlin
+adam white
+mostafa dehghani
+lifu tu
+patrick h chen
+zhendong zhang
+chris cremer
+fernanda viégas
+sébastien forestier
+matthew ricci
+william falcon
+zhourong chen
+arash mohegh
+jacob andreas
+asja fischer
+ron amit
+hua wu
+wen sun
+yingbo zhou
+dian chen
+wolfgang roth
+mohamed ishmael belghazi
+garud iyengar
+irina higgins
+yunchen pu
+adam c earle
+adam prügelbennett
+chao gao
+xiang zhang
+maik riechert
+yi zhang
+oleksandr shchur
+jaehong yoon
+sebastian urban
+matt riemer
+jakob drefs
+jun yu
+horace pan
+maarten de rijke
+kenny song
+kuiyuan yang
+jonas gehring
+ji liu
+stephanie hyland
+justin fu
+adam roberts
+lyle ungar
+dimitrios vytiniotis
+sylvain gelly
+maher nouiehed
+daniel kang
+trung le
+hongseok yang
+shachar fleishman
+timothy hospedales
+nam nguyen
+ben athiwaratkun
+alistair muldal
+soheil feizi
+luca citi
+frederick tung
+joão sedoc
+michael e houle
+uyeong jang
+niyati chhaya
+jason yosinski
+heerad farkhoor
+kokil jaidka
+shouzhong tu
+yaniv taigman
+yuxiong he
+mohammad babaeizadeh
+hongyi zhang
+timon gehr
+geoff roeder
+pinyu chen
+chris hettinger
+shiyu chang
+johannes ballé
+denis lukovnikov
+anant raj
+david belanger
+dan alistarh
+will feng
+benoit steiner
+charles h martin
+matteo hessel
+bo chen
+tianyi zhou
+illia polosukhin
+george tzanetakis
+yinlam chow
+stephan günnemann
+cheng xie
+yu wang
+atsunori kanemura
+ondrej bajgar
+maja rudolph
+giambattista parascandolo
+xavier roca
+olivier bousquet
+taco s cohen
+santiago zazo
+junkyung kim
+eric w tramel
+ian osband
+thilo strauss
+bita darvish rouhani
+aarushi arora
+justin gilmer
+nan rosemary ke
+jaime carbonell
+byron boots
+xingyuan yuan
+utku evci
+nassir navab
+suvrit sra
+nitin kamra
+marcaurelio ranzato
+sanjeev satheesh
+vasil khalidov
+shwetak patel
+fernando perezcruz
+peter stone
+yaguang li
+alex hernándezgarcía
+brenden lake
+arild nøkland
+calvin seward
+samuel l smith
+deniz oktay
+andrew gordon wilson
+ludovic trottier
+omer levy
+yasaman bahri
+qibin zhao
+chinchia michael yeh
+matt johnson
+karan grewal
+hanjun dai
+giuseppe ateniese
+jeff orchard
+yewen pu
+mehdi fatemi
+vasilis syrgkanis
+manzil zaheer
+matthieu cord
+debadeepta dey
+david gt barrett
+jack urbanek
+nhat m nguyen
+jiaqi mu
+grant schoenebeck
+kevin jamieson
+maurice diesendruck
+animesh karnewar
+yang gao
+negar rostamzadeh
+karen simonyan
+jia bi
+nicolas carion
+antonio polino
+igor melnyk
+zhaowen wang
+volker fischer
+richard zhang
+joel z leibo
+yiping lu
+sven dähne
+adrien coulet
+zijun zhang
+murad tukan
+and tim klinger
+xuanqing liu
+eleni triantafillou
+wei cheng
+dufan wu
+sasidhar madugula
+ulfar erlingsson
+preksha nema
+jiashi feng
+chunyuan li
+luis armona
+volodymyr kuleshov
+jie pan
+lei han
+shohei ohsawa
+mingyue shang
+alex nowak
+daan wierstra
+jasper snoek
+yingtao tian
+thomas elsken
+jakub pachocki
+noa garcia
+karey shi
+pablo m olmos
+christopher snyder
+ej chichilnisky
+sayantan dasgupta
+david filliat
+roy h campbell
+rudy bunel
+murat kocaoglu
+john langford
+mikel artetxe
+alexander miller
+digvijay boob
+yu gai
+guandao yang
+vincent ws tseng
+di he
+dami choi
+dzmitry bahdanau
+hanock kwak
+zihang dai
+ethan fetaya
+konstantinos pitas
+aijun an
+carson eisenach
+maruan alshedivat
+jason weston
+xuefei ning
+nicholas fitzgerald
+philippe caillou
+taesik na
+dimitry fisher
+soham parikh
+nils napp
+dmitry dagunts
+jason j corso
+youngja park
+simone severini
+nantas nardelli
+felix x yu
+taesu kim
+markus hanselmann
+tom zahavy
+runyao chen
+zhirong wang
+brendan maginnis
+harrison edwards
+stanisław jastrzebski
+can xu
+javier zazo
+sumit baburao tamgale
+anirbit mukherjee
+wu lin
+minhthang luong
+yupeng gao
+kunal banerjee
+boyang deng
+bradly stadie
+bo dai
+lingjiao chen
+jihyung moon
+claire monteleoni
+dave bacon
+noam shazeer
+yu sun
+dmitry kangin
+matthew r walter
+wang ling
+xiaojie jin
+brandon m anderson
+armand vilalta
+ying xiao
+ganesh venkatesh
+kris cao
+ben krause
+pascal vincent
+michiel van de panne
+adam coates
+nathan brown
+kfir y levy
+hiroshi inoue
+evgeny burnaev
+joseph j lim
+kry yikchau lui
+sewon min
+ignasi clavera
+hongseok namkoong
+yuzhong huang
+wei he
+rajesh ranganath
+cathy wu
+koji tsuda
+benjamin rosman
+kishore konda
+jun wang
+jiatao gu
+pau rodríguez
+saeyoung chung
+luis marti
+han liu
+nick weston
+martin riedmiller
+fan yang
+yonatan belinkov
+christopher j pal
+longhao yuan
+luke hewitt
+arezoo alizadeh
+sotetsu koyamada
+avi singh
+zeng huang
+tao shen
+sushrut karmalkar
+mausoom sarkar
+chunfu richard chen
+ian fischer
+mohammad emtiyaz khan
+guanhua zheng
+ron levie
+yibo yang
+elad hoffer
+raia hadsell
+philip hs torr
+igor mordatch
+mikhail khodak
+david martinez rubio
+timo aila
+hyeji kim
+luping shi
+ronan collobert
+le song
+james lloyd mcclelland
+nicolas hubacher
+changho suh
+sasikanth avancha
+wei wei
+bibo shi
+david barber
+xiangyu kong
+hung q ngo
+jianyun nie
+layla el asri
+olivier mastropietro
+s m ali eslami
+yenyu lin
+stefanie jegelka
+devon bernard
+shehzaad dhuliawala
+amy nesky
+lukasz kaiser
+zhiting hu
+gintare karolina dziugaite
+madhu advani
+yeming wen
+dilip arumugam
+qiantong xu
+ludovic denoyer
+thomas paine
+martin simonovsky
+masanori koyama
+yuhuang hu
+christopher leckie
+yoshua bengio
+antonio torralba
+bingyi kang
+david alvarezmelis
+yuanhang su
+marius kloft
+stefan winkler
+mickael chen
+josiah wang
+zhihao jia
+greg yang
+alasdair newson
+cane punma
+klas leino
+yenchang hsu
+tom jin
+ilya loshchilov
+yutaka matsuo
+kostas stamatopoulos
+ilias kalamaras
+abhishek kumar
+ozan sener
+matko bošnjak
+kyle helfrich
+brent griffin
+jakub dutkiewicz
+shurjo banerjee
+peter könig
+jean kossaifi
+jakub bartłomiej świątkowski
+samuel s schoenholz
+laurent charlin
+junbo jake zhao
+evan zheran liu
+zeming lin
+adrian vladu
+posen huang
+pan zhou
+asit mishra
+xinlei xu
+subhajit chaudhury
+eliya nachmani
+yaser sheikh
+john duchi
+ni lao
+kevin ellis
+joshua romoff
+joyu liao
+karol hausman
+cheng peng
+sharan narang
+jeff dean
+christine allenblanchette
+sachin ravi
+thomas lucas
+forough arabshahi
+kuniaki saito
+brendan jou
+benjamin recht
+mary phuong
+carlton downey
+yaohung hubert tsai
+peter a beerel
+danlu chan
+yuchen lu
+yaliang li
+jianqiang yao
+vitaliy liptchinsky
+gábor melis
+tommi jaakkola
+dmitriy serdyuk
+boussad addad
+mark schmidt
+sham m kakade
+bowen baker
+kook han
+marin soljacic
+guanghao luo
+wei zhang
+evangelos e papalexakis
+li yao
+hai li
+liqun chen
+shanghang zhang
+yuxin wu
+anthony lin
+alexey kurakin
+matthew schlegel
+haichao zhang
+jianbo ye
+nilanjan ray
+songgang zhao
+hanxiao liu
+tim salimans
+yizhe zhang
+angus galloway
+hiroyuki nakahara
+eric poblenz
+guocheng niu
+ali farhadi
+nils y hammerla
+ryan hayward
+thomas laurent
+ramazan gökberk cinbiş
+dale schuurmans
+lei wu
+powei wang
+piotr bojanowski
+sungzoon cho
+thang d bui
+meire fortunato
+chenwei wu
+ivan zhang
+emmanuel kahembwe
+michèle sebag
+brahim chaibdraa
+warren mo
+yusuke tsuzuku
+hengyuan hu
+janarthanan rajendran
+nicholas donald lane
+zana rashidi
+alexander pritzel
+ping luo
+matt fredrikson
+kimin lee
+david yunis
+xiaogang wang
+satyen kale
+quoc le
+amir rosenfeld
+marc bellemare
+laura guasch
+joshua peterson
+jeanfrancois goudou
+sanjiv kumar
+kailash gopalakrishnan
+daniel m roy
+ning miao
+bo chang
+dan horgan
+wemerson marinho
+david blei
+hailin jin
+sanjay purushotham
+peter bailis
+alexandre lacoste
+vid stojevic
+nate kushman
+matthias  zwicker
+cristian lumezanu
+christopher re
+chong he
+julian mcauley
+daiki kimura
+cheng tai
+cao xiao
+michael kahane
+felix hill
+fisher yu
+rodrigo andrade de bem
+jonathan huang
+zimo li
+zhanxing zhu
+alexander gaunt
+sergio gómez colmenarejo
+sander bohte
+olga diamanti
+steve renals
+jeremy bernstein
+sam s schoenholz
+yoshitaka ushiku
+zhengping che
+cengiz öztireli
+haozhu wang
+josh merel
+shinichi maeda
+chengqi zhang
+henning petzka
+carlos riquelme
+simon jégou
+robert cornish
+linyi li
+aurelien lucchi
+daniel ramage
+hongxin hu
+joonseok lee
+liangzhen lai
+krzysztof choromanski
+karol gregor
+erich elsen
+hungyi ou yang
+enrico guiraud
+mark sendak
+kenny j young
+kiran vodrahalli
+shuming ma
+avinash balakrishnan
+christina heinzedeml
+zhuo wang
+kevin swersky
+tom drummond
+ari holtzman
+romain laroche
+takeru miyato
+maximilian alber
+hal daumé iii
+rémi flamary
+j andrew bagnell
+mark fisher
+yiannis aloimonos
+jim huang
+vladlen koltun
+yeuchern harn
+xun zheng
+geoffrey j gordon
+anton osokin
+daniela rus
+taesung park
+sohil atul shah
+pooya ronagh
+hayong shin
+yuta kikuchi
+namhoon lee
+jugal kalita
+hao ge
+marco baroni
+tanachat nilanon
+zixin yao
+kuansan wang
+divya shanmugam
+zhouchen lin
+arthur gretton
+mengying sun
+minjie fan
+karl tuyls
+kilian weinberger
+suraj kholwadwala
+stephen clark
+ivo popov
+anil a bharath
+anuvabh dutt
+john blitzer
+huazhong yang
+chris cundy
+yermek kapushev
+j zico kolter
+jaspreet s oberoi
+abhay yadav
+mehran taghipourgorjikolaie
+debbie marr
+xuanlong nguyen
+michael traynor
+jianfeng gao
+phil blunsom
+siddhartha chaudhuri
+joseph marino
+nicholay topin
+matei zaharia
+balaji lakshminarayanan
+daniel ritchie
+xaq pitkow
+anton nemchenko
+yan liu
+daniel soudry
+prasanna sattigeri
+bing liu
+xiangyang li
+wei wang
+paulius micikevicius
+zhiyuan luo
+marco pistoia
+jean maillard
+pengtao xie
+mehran mesbahi
+geoff davis
+shibani santurkar
+drew a hudson
+logan engstrom
+tong che
+pascal frossard
+nicolas sonnerat
+kyongmin yeo
+andrew m dai
+günter klambauer
+yuanbin cao
+matthew hausknecht
+kyoungchul koh
+chaowei xiao
+raquel urtasun
+nishal p shah
+siddharth goyal
+max pflueger
+travis williams
+tao wei
+mukundhan srinivasan
+kun wu
+jacob steinhardt
+seyyed mohammad razavi
+matthew a johnson
+david garcia
+shaileshh bojja venkatakrishnan
+conor durkan
+ralph edezhath
+jonathan ho
+anshumali shrivastava
+rui wan
+caiming xiong
+simon carbonnelle
+raul blázquez garcía
+mario wieser
+thanard kurutach
+julien audiffren
+brandon amos
+gil tabak
+kris m kitani
+afshin rostamizadeh
+stephen phillips
+alec radford
+yujia li
+katherine heller
+yangang zhang
+eun kyung lee
+yixuan li
+nivio ziviani
+jeffrey pennington
+oliver hennigh
+bo jiang
+josh dillon
+michal mackiewicz
+oleksandr polozov
+ben covington
+daniel zügner
+liwei wang
+vladimir jojic
+shane legg
+prateek jain
+maxwell forbes
+will liao
+tuan anh le
+devon hjelm
+søren hauberg
+mihaela van der schaar
+tomer michaeli
+yueru chen
+cory p berg
+fartash faghri
+tomer galanti
+kristof t schütt
+jason d lee
+gerry che
+wenbin li
+sainbayar sukhbaatar
+samuel j yang
+ishanu chattopadhyay
+laurent dinh
+mahdi azarafrooz
+mahmoud khademi
+tianchan guan
+soumen chakrabarti
+xu chen
+sungyong seo
+qi zhao
+jesús labarta
+junzhou huang
+chang liu
+tom griffiths
+vithursan thangarasa
+bernhard nessler
+andrew rawstron
+anish athalye
+tomoki ito
+dipankar das
+edouard oyallon
+bence tilk
+callie federer
+chengtao li
+radu timofte
+davide zambrano
+gang su
+lars kai hansen
+shin ishii
+gunnar rätsch
+rémi leblond
+haonan yu
+niki kilbertus
+chen fang
+yura burda
+david folqué
+fabio viola
+huazheharry xu
+diviyan kalainathan
+hangyu mao
+catherine tong
+david jacobs
+nicolai meinshausen
+mark rowland
+dengyong zhou
+junbo zhao
+minjia zhang
+serkan cabi
+yang song
+andrew michael saxe
+theo lim
+sam coope
+markus kliegl
+guoyin wang
+thomas trappenberg
+jorn wt peters
+nathan kallus
+ruochun tzeng
+dheevatsa mudigere
+paulina grnarova
+xiangru lian
+anastasios vafeiadis
+riashat islam
+lionel cordesses
+qihang lin
+mikołaj bińkowski
+panupong pasupat
+jakob uszkoreit
+xiaojing ye
+joerg luecke
+nikhil naik
+mohammad norouzi
+naveen mellempudi
+denis pellerin
+truong son hy
+avishkar misra
+umang gupta
+ricardo henao
+gunhee kim
+xiaoyang zeng
+teresa ludermir
+brian whitney
+kexin zhao
+roland hafner
+xi chen
+rahul kidambi
+matthias bauer
+lucia specia
+gautam pai
+shiju ran
+daniel neil
+charles blundell
+sumit gulwani
+arnold wm smeulders
+honglak lee
+polykarpos meladianos
+srinivas sridharan
+alexei a efros
+gavin weiguang ding
+antonia creswell
+sek chai
+emilio rafael balda
+jian zhang
+guoqi li
+manuel molanomazon
+li jing
+gregory diamos
+ali agha
+lihong li
+sam schoenholz
+wei shen
+anton van den hengel
+federico gaiti
+yves grandvalet
+devansh arpit
+boqing gong
+renjie liao
+ning xu
+michael chang
+olivier goudet
+toshiki kataoka
+abhishek mohta
+wenhsiao peng
+pengchuan zhang
+chengte li
+laurens van der maaten
+joelle pineau
+deva ramanan
+olivier pietquin
+josep m gonfaus
+tommaso furlanello
+dieter fox
+ella m gale
+joel zylberberg
+koichi kise
+leon bottou
+hado van hasselt
+gautier marti
+pramod viswanath
+luke metz
+sameer singh
+weiyi liu
+eric crawford
+martial hebert
+adams wei yu
+adriano veloso
+eduard ayguadé
+david ha
+mingyuan zhou
+aashish n patel
+allie del giorno
+lukas balles
+marc peter deisenroth
+richard zemel
+sanguthevar rajasekaran
+andrew jaegle
+arthur szlam
+adly templeton
+hannaneh hajishirzi
+ke li
+yiming yang
+sanjukta krishnagopal
+xi wu
+gary becigneul
+vijayaraghavan murali
+shuiwang ji
+biswa sengupta
+weichih hung
+olalekan ogunmolu
+yuhui yuan
+amit deshpande
+jiajun luo
+jonghwan kim
+mikael kågebäck
+christophe de vleeschouwer
+rama chellappa
+lawrence carin
+roger v
+georgia gkioxari
+kavya srinet
+chris vigorito
+tingwu wang
+kevin clark
+stanisław jastrzębski
+sean welleck
+philippe giguère
+jiong zhang
+alexander rush
+matthew w hoffman
+bei peng
+emiel hoogeboom
+victor garcia satorras
+tieyan liu
+daniil polykovskiy
+sahil sharma
+xiang wei
+levent sagun
+shagun sodhani
+minghsuan yang
+alexandros karatzoglou
+brian kulis
+kevin gimpel
+sreeram kannan
+mario geiger
+yikang shen
+remi flamary
+pedro domingos
+swabha swayamdipta
+joji toyama
+dendi suhubdy
+jianchao yang
+gavin taylor
+patrick gallinari
+jack w rae
+tom rainforth
+matthias plappert
+sergio valcarcel macua
+stephan mandt
+raphael shu
+hao yuan
+george vogiatzis
+smitha milli
+david dohan
+paolo  favaro
+dehua cheng
+yichi zhang
+yuhuai wu
+bojian yin
+sjoerd van steenkiste
+vijai mohan
+stefano panzeri
+leonidas guibas
+romain paulus
+purushottam kar
+murray campbell
+ryuki tachibana
+zhijian ou
+xin lu
+hippolyt ritter
+kiuk chung
+cyril zhang
+avinava dubey
+nicolas courty
+cleber zanchettin
+tatsuya harada
+wasi uddin ahmad
+meredith clement
+kaiwei chang
+bo huang
+yichen gong
+yuandong tian
+sam webster
+martine de cock
+guneet s dhillon
+sewoong oh
+rui zhao
+robert vandermeulen
+ismail uysal
+greg diamos
+adam polyak
+matthew sellwood
+pierre courtiol
+tara javidi
+changyou chen
+arash tavakoli
+xianzhong ma
+rui shu
+víctor campos
+steven t kothenhill
+hongbin zha
+scott linderman
+jiaming hu
+ankit sharma
+fred bertsch
+ananda theertha suresh
+john peebles
+medhat moussa
+jonathan raiman
+haoyang zeng
+jun sakuma
+ken goldberg
+david silver
+shayak sen
+ashish bora
+amr sharaf
+v ugur guney
+han cai
+davis blalock
+maria chikina
+nv vinodchandran
+zachery miranda
+aravind rajeswaran
+ricky fok
+jacob devlin
+ioannis antonoglou
+lu hou
+james bradbury
+ji lin
+karan singh
+chris donahue
+petr vytovtov
+huan zhang
+junjie hu
+efrat solodnik
+yanwei fu
+fung xie
+alhussein fawzi
+leslie pack kaelbling
+ishan durugkar
+zhengli zhao
+jong hwan ko
+navid ghadermarzy
+cara obrien
+youngmoo kim
+peng sun
+francois fagan
+pierre richemond
+robert ormandi
+max augustin
+miao lu
+muhammad osama
+matthias hein
+alexander schoenhuth
+wei chen
+luc van gool
+adam trischler
+sitao huang
+sungryull sohn
+s chandra mouli
+mario figueiredo
+trapit bansal
+michael j henry
+jeff bilmes
+praneeth netrapalli
+sunil deochand
+jovana mitrovic
+ying zhang
+jonathon hare
+lars hiller eidnes
+percy liang
+nicolas le roux
+jiechao xiong
+eriko nurvitadhi
+iain murray
+shikhar sharma
+ronen talmon
+tsunghsien wen
+sanjay krishnan
+eric nalisnick
+guanghui lan
+chrisantha fernando
+spyros gidaris
+sung ju hwang
+jm ritchie
+guodong long
+khashayar rohanimanesh
+hoon kim
+omar fawzi
+sina tootoonian
+christopher k i williams
+nikos komodakis
+pierce i chuang
+michelle girvan
+alexander lerchner
+peter i frazier
+feng chen
+nicolas heess
+toniann pitassi
+hao zhang
+takuya akiba
+yanqi zhou
+murray shanahan
+jeongtae lee
+surya chavali
+samuli laine
+mikolaj binkowski
+junhyuk oh
+daehyun ahn
+jeremy appleyard
+will dabney
+mor shpigel nacson
+thomas rothörl
+keyulu xu
+xiaohua liu
+michele franceschini
+vinay p namboodiri
+chungcheng chiu
+guokun lai
+dean foster
+bryan m li
+hiroto imachi
+chris ying
+emma brunskill
+dave janz
+zachary c lipton
+andres almansa
+alexander skidanov
+fredrik d johansson
+etienne pot
+thomas brox
+wei wen
+rakshit trivedi
+chenglong wang
+ari s benjamin
+hannes schulz
+qian zhao
+sagie benaim
+martin vechev
+rafal jozefowicz
+peter j liu
+ramesh raskar
+zhenzhong jia
+ehsan zahedinejad
+tom goldstein
+hubert ramsauer
+dani yogatama
+henning schulzrinne
+shimon whiteson
+alessandro bay
+xiangyu chen
+ashutosh kumar jha
+nishant vishwamitra
+vikas chandra
+chen xu
+xiaoyue gong
+dhruv batra
+quan hoang
+danilo rezende
+joseph suarez
+alex graves
+gabriel huang
+adam klivans
+yasin yazici
+aleksandar botev
+gil chamiel
+hossein azizpour
+pablo sprechmann
+martin mundt
+xiao li
+lawson ls wong
+daniel d lee
+yishu miao
+wenjin zhou
+hangyu lin
+hao wu
+yejin choi
+ivo danihelka
+jatin ganhotra
+marina munkhoeva
+kristin branson
+yuji tokozume
+jim davies
+chuan wu
+weiguang mao
+chenyu lee
+william r zame
+n dinesh reddy
+luke zettlemoyer
+vijay badrinarayanan
+jithendar anumula
+navin goyal
+ahmed a aly
+imanol schlag
+vijay kumar
+andrew g green
+dinghan shen
+jinfeng yi
+roeland nusselder
+yiran chen
+jinwoo shin
+jingdong wang
+chris dyer
+simon s du
+nathaniel d omans
+christopher rozell
+massimiliano ciaramita
+zhengxin weng
+ivan oseledets
+navdeep jaitly
+vijayalakshmi srinivasan
+kai chen
+thomas serre
+rudolf kadlec
+stanislav fort
+steven skiena
+thomas hofmann
+yihao feng
+ronald kemker
+rif a saurous
+nikhil mishra
+mert bülent sarıyıldız
+gauthier gidel
+aurick zhou
+malik magdonismail
+richard e turner
+praveer singh
+chong wang
+tanner christensen
+lane schwartz
+abhishek sinha
+jonas rauber
+jitao sang
+aviv tamar
+thomas möllenhoff
+francois chollet
+jiayuan mao
+vikas verma
+corin ennis
+quoc v le
+robert legenstein
+anuroop sriram
+peiye zhuang
+stephen scott
+jerry li
+zhouhan lin
+adriano l i oliveira
+cem tarhan
+florian bordes
+wei xu
+xiaoxiao guo
+max welling
+konrad groh
+philip h s torr
+vitaly levdik
+sandeep subramanian
+samy bengio
+azalia mirhoseini
+balestriero r
+szymon sidor
+david saxton
+jarrel seah
+sai rajeswar
+roger grosse
+petar veličković
+david so
+alexandros kalousis
+aidan n gomez
+asaf zviran
+sina lin
+craig bakker
+john miller
+yinda zhang
+shuang song
+mike lewis
+volker roth
+evan shelhamer
+wonjong rhee
+prajit ramachandran
+eldad haber
+chiheb trabelsi
+jiezhong qiu
+tuomas haarnoja
+sicong huang
+siddharth krishna kumar
+david z pan
+kainan peng
+shubhendu trivedi
+zac kenton
+chris jermaine
+djorkarnè clevert
+daniel tarlow
+sourya dey
+dimche kostadinov
+yuchen hou
+matthias schubert
+cc jay kuo
+connor coley
+matthew riemer
+robert kleinberg
+virginia r de sa
+qing wang
+hwee kuan lee
+yisen wang
+haichuan yang
+guy van den broeck
+pin zhang
+daniel li
+francois fleuret
+brandon reagen
+antoine rolet
+shuicheng yan
+martin wattenberg
+joseph e gonzalez
+thiago serra
+zhouhao wang
+yoram bachrach
+alexander g de g matthews
+tomás angles
+pierre h richemond
+xiangyang xue
+james r clough
+will grathwohl
+sanja fidler
+roy fox
+lars maaløe
+arshdeep sekhon
+venkatesh elango
+yihsuan tsai
+mike davies
+ilya tolstikhin
+tansu alpcan
+gaurav s sukhatme
+yu cheng
+yann ollivier
+martin schrimpf
+pieter abbeel
+matej vecerik
+zhou ren
+dan boneh
+deyu meng
+atsuo kawaguchi
+hiroki sakaji
+william h guss
+qing liu
+haoyue gao
+nadav cohen
+andrea tagliasacchi
+jonathon shlens
+yanyao shen
+luca rigazio
+arthur pajot
+jiayu zhou
+marc brockschmidt
+aswin raghavan
+yide shentu
+jeff humpherys
+artemij amiranashvili
+yongho yoo
+karim ahmed
+deguang kong
+donghyun kim
+jason ramapuram
+dr nadereh hatami
+adepu shankar
+daniel a abolafia
+rejith joseph
+qizhe xie
+koray kavukcuoglu
+jan achterhold
+tomi silander
+wieland brendel
+sanjeev kumar
+mohammad saleh
+li zhang
+richard evans
+franz pernkopf
+alexander m rush
+adi hayat
+rajarshi das
+tengfei ma
+amelie royer
+yi chang
+r srikant
+ankur p parikh
+jan hendrik metzen
+baruch epstein
+xavier bresson
+qiang ye
+melike nur mermer
+sara hooker
+jesse zhang
+ozsel kilinc
+samira shabanian
+bin yu
+ludwig schmidt
+adam lerer
+shuohang wang
+seth flaxman
+llion jones
+lars buesing
+stephen merity
+nicolas ballas
+patrick van der smagt
+jian peng
+xiaohui yang
+ben poole
+briland hitaj
+gabriel pereyra
+gorka labaka
+elliot meyerson
+george tucker
+heewoo jun
+david rolnick
+eric p xing
+josh fromm
+philip s yu
+eric price
+dheeru dua
+asana neishabouri
+david budden
+wenlin wang
+denis a gudovskiy
+moustapha cisse
+marion mutter
+giannis nikolentzos
+carlos florensa
+eneko agirre
+vitor fortes rey
+jonah alben
+hyochang yang
+yingchen xu
+niao he
+dmitry soloviev
+konstantia kotta
+noah a smith
+peter oconnor
+stefano ermon
+zixia liu
+suyog gupta
+lili meng
+thorsten joachims
+jeffrey j cook
+andrew m saxe
+runfei luo
+peter battaglia
+yang li
+jianxiong dong
+dan busbridge
+niki parmar
+oluwasanmi koyejo
+furong huang
+kevin smith
+keith w ross
+mark kliger
+zhen xiao
+frank wood
+jiazhong nie
+zhe lin
+prafulla dhariwal
+siddharth singh
+arash mehrjou
+yan wu
+vlad velici
+uri shaham
+ben harwood
+yi wu
+bernhard schoelkopf
+nikolay savinov
+mohammad gheshlaghi azar
+peter richtárik
+somesh jha
+balaji krishnamurthy
+anderson nascimento
+damien vincent
+tim klinger
+jennifer neville
+aayush bansal
+sopan khosla
+cian eastwood
+jialin mao
+hengliang wang
+nicholas rhinehart
+stéphane mallat
+tadanobu inoue
+teng zhang
+hung bui
+wojciech gajewski
+dandan guo
+rong ge
+arno onken
+anubhav ashok
+dimitar dimitrov
+yusuke iwasawa
+alan lawrence
+tom bosc
+lei huang
+april shen
+cyrus shahabi
+milad alizadeh
+kelly stanton
+youngjin kim
+klausrobert müller
+jian du
+scott reed
+amol kapoor
+adria puigdomenech badia
+xuancheng ren
+paul cernek
+armando bedoya
+jason lee
+meng li
+taesup kim
+jordan suchow
+hao ma
+jaap kamps
+kibok lee
+shihfu chang
+lucas deecke
+pushmeet kohli
+hung hai bui
+vittorio murino
+kelly zhang
+jos van der westhuizen
+moritz hardt
+poorya mianjy
+ron meir
+mingzhi dong
+mario fritz
+udit gupta
+martin mueller
+zhoujun li
+arjun nitin bhagoji
+forrester cole
+michael m bronstein
+corentin tallec
+devin willmott
+xu sun
+sarah m erfani
+attila  szabo
+tal friedman
+siddhant m jayakumar
+guillaume rabusseau
+alec hodgkinson
+dustin tran
+katie luo
+mostafa rohaninejad
+matthew mirman
+daeki cho
+alex aiken
+dirk weissenborn
+charles schaff
+yu wu
+ritambhara singh
+juho lee
+dan friedman
+evarist fomenko
+tanmay gangwani
+gustavo bezerra
+nitish shirish keskar
+rafael c schulman
+josé m f moura
+zhangyang wang
+xia xiao
+tianmin shu
+john guttag
+alex smola
+honghua dong
+xuezhe ma
+jingyi xu
+aran khanna
+shai shalevshwartz
+lorenzo torresani
+sungik choi
+alexander g schwing
+jie tang
+michael mitzenmacher
+saurabh singh
+da xiao
+seyedmohsen moosavidezfooli
+toyotaro suzumura
+inderjit s dhillon
+diana inkpen
+zhendong su
+jiaming song
+zhaoyuan gu
+fei tian
+robert li
+alan yuille
+shiyu liang
+jordan rodu
+joan bruna
+karl moritz hermann
+andrew zisserman
+qucheng gong
+bingzhen wei
+nicolas papernot
+lin ma
+david madras
+daeyoung choi
+aleksander madry
+dinh phung
+nathan srebro
+sercan arik
+guanhang wu
+nevin l zhang
+george e dahl
+sanghyun cho
+demis hassabis
+jonathan  uesato
+trevor darrell
+ming zhang
+carlo regazzoni
+rui yan
+han zhao
+andrew rabinovich
+tao lei
+mathieu blondel
+naveen kodali
+pouya samangouei
+anderson y zhang
+efstratios gavves
+quanfu fan
+allison m rossetto
+alexander l gaunt
+tianhong li
+ding liu
+jindong gu
+timothy wong
+pradeep dubey
+arash behboodi
+ashish vaswani
+lukas ruff
+frederic besse
+vikas dhiman
+shakir mohamed
+hod lipson
+thao ngyuen
+jesse engel
+valentin khrulkov
+david macêdo
+holden lee
+christian tjandraatmadja
+kevin kwok
+h brendan mcmahan
+dan svenstrup
+adam atkinson
+lior wolf
+andrew gibiansky
+jonathan binas
+ilya kostrikov
+jaideep srivastava
+zack chase lipton
+tong zhang
+antoine jp tixier
+chiaping chen
+alexander sage
+yang fan
+daxiang dong
+henry li
+evangelos georganas
+himanshu kharkwal
+ruitong huang
+otkrist gupta
+qiuyu chen
+michael o vertolli
+ofir nachum
+yann lecun
+ilker turkaslan
+edward grefenstette
+yakov kronrod
+changho shin
+mohammad samragh
+florian tramèr
+yann gousseau
+michael l littman
+vineeth balasubramanian
+michael houston
+beidi chen
+stephan zheng
+mélanie ducoffe
+prof dr paul lukowicz
+kyungsang kim
+zhishuai zhang
+matt d hoffman
+mikhail kudinov
+mayank rana
+shaojie bai
+joel dapello
+behnam neyshabur
+yuan gong
+yiping song
+robin cao
+huishuai zhang
+jinsung yoon
+christos louizos
+huipo wang
+seid m sadat
+fei xia
+jie chen
+ricky loynd
+allen nie
+jian wu
+he ma
+kotaro nakayama
+dianhai yu
+ilya sutskever
+vinci chow
+richard s sutton
+gao huang
+javad sadri
+kurt keutzer
+chao qiao
+mateo rojas carulla
+jeanbaptiste alayrac
+tatsuo yamashita
+marc lanctot
+david amos
+yuan wang
+dae hoon park
+guoqing zheng
+mohammad shoeybi
+preethi jyothi
+shankar krishnan
+hazem a a nomer
+mitesh m khapra
+pierre vandergheynst
+bilal piot
+jürgen schmidhuber
+yingzhen li
+tianlin shi
+arbaaz khan
+yuxuan song
+jordan t ash
+thomas moreau
+yannick toussaint
+aoxiao zhong
+robert dipietro
+teck khim ng
+geoff gordon
+zichao yang
+yuval tassa
+bruno ribeiro
+konstantinos karydis
+hsinyuan huang
+nicholas a lord
+john k tsotsos
+richard s zemel
+weijan ko
+jaejoon kim
+uri shalit
+aleksandar makelov
+andreas krause
+hiroshi kajino
+maithra raghu
+ashwin kalyan
+yuval kluger
+xiaodong he
+daren li
+christopher p burgess
+tao xu
+yi mao
+sashank j reddi
+silvio savarese
+raphael feraud
+amos storkey
+said ladjal
+sudanthi wijewickrema
+pietro liò
+misha denil
+boi faltings
+paul kinney
+eleanor quint
+wei lu
+yin liu
+youssef mroueh
+chen wang
+julian ibarz
+shuo yang
+chiaching lin
+thanh t nguyen
+bryan perozzi
+derik pridmore
+wei fan
+eunho yang
+jianyuan guo
+jacob williams
+stefano soatto
+mohammad ghasemzadeh
+tengyu ma
+sanjeev arora
+mikael henaff
+srinadh bhojanapalli
+bernhard schölkopf
+geoff french
+shixiang gu
+armand joulin
+timothée lesort
+hugo larochelle
+anke schmeink
+mihir mongia
+ricardo pio monti
+seong joon oh
+quynh nguyen
+frederik ebert
+matt kusner
+naveen sai madiraju
+alexey romanov
+marc g bellemare
+renato negrinho
+guillaume lample
+tingfung lau
+zhiguo wang
+theophane weber
+rohan anil
+graham neubig
+jerilyn a timlin
+hongbao zhang
+zichao long
+krishan aghi
+pochen hsieh
+alex alemi
+guyeon wei
+mo yu
+andrej zukovgregoric
+chinlaung lei
+minjung kim
+marinka zitnik
+dimitris tzovaras
+tim rocktäschel
+hal cooper
+armando solarlezama
+marlos c machado
+lijia li
+ehsan abbasnejad
+barret zoph
+sepp hochreiter
+alexandre passos
+ke zhai
+venu govindaraju
+brady neal
+jure leskovec
+tomas kocisky
+ákos kádár
+jeff pool
+serge belongie
+connie kou
+brendan daniel tracey
+su young lee
+dimitris metaxas
+boyuan chen
+sourav bhattachary
+constantinos daskalakis
+thomas griffiths
+john schulman
+ananya sai
+alex lamb
+suraj nandkishor kothawade
+richard socher
+aditi raghunathan
+andrew brock
+ulises cortés
+tero karras
+shengyang sun
+david held
+irina piontkovskaya
+david l dill
+thierry artières
+jörnhenrik jacobsen
+shu rong
+yoon kim
+ahmed touati
+r devon hjelm
+dalei wu
+been kim
+junyan zhu
+li ding
+kenton lee
+quanzheng li
+alexandre m bayen
+kiran k thekumparampil
+kiyoshi izumi
+diederik p kingma
+dejiao zhang
+christian rupprecht
+ashraf elsayed
+kevin frans
+chichun chuang
+angeliki lazaridou
+yong yu
+oluwasanmi o koyejo
+qi song
+risi kondor
+jianping fan
+gregory farquhar
+robert torfason
+aviv rotman
+abhishek panigrahi
+haifeng chen
+martha white
+thomas mesnard
+cong xie
+remi munos
+ian goodfellow
+yuxiang wang
+sung jin hwang
+xavier giróinieto
+yoram singer
+yan zhang
+kevin tian
+mengye ren
+jake snell
+yang you
+li deng
+nikolay atanasov
+sanchit agrawal
+audrunas gruslys
+ekin dogus cubuk
+tatsuya matsushima
+konrad zolna
+matthew botvinick
+edward choi
+petar kormushev
+rose yu
+cuong v nguyen
+vuong ho quan
+javen shi
+shunan zhao
+brad carlile
+joan bruna estrach
+wenhan wang
+shihchii liu
+aman sinha
+fabian mentzer
+erin grant
+laura balzano
+ziyu wang
+alon brutzkus
+fares beainy
+ziruo cai
+soummya kar
+nicolas robine
+alex sivak
+visvanathan ramesh
+siddharth karamcheti
+danlu chen
+jonas meinertz hansen
+gerald tesauro
+maximilian igl
+anthony hu
+feng luo
+dean plumbley
+felix wu
+keyi yu
+dario garciagasulla
+jaakko lehtinen
+pietro morerio
+david minnen
+cyriel pennartz
+anirudh goyal
+dougal j sutherland
+akiko marti
+sivan sabato
+volker tresp
+arthur guez
+jack lanchantin
+risto miikkulainen
+balaraman ravindran
+kevin t feigelis
+swagath venkataramani
+dimitris kalatzis
+jost tobias springenberg
+yanshuai cao
+kshiteesh hegde
+feiwen zhu
+wei wu
+sham kakade
+quentin grail
+michael h zhu
+kei akuzawa
+karthik vaidyanathan
+charles r qi
+emmanuel de bezenac
+mihaela rosca
+vivien seguy
+nayat sanchezpi
+shengjia zhao
+xinyun chen
+adrian huber
+michael tschannen
+dan a landau
+yedid hoshen
+pengcheng yin
+wenwu ou
+monojit choudhury
+chenliang xu
+jun zhu
+vikash kumar
+eric tzeng
+matthias bethge
+amirata ghorbani
+peter h jin
+loic matthey
+panos achlioptas
+michael arbel
+atilim gunes baydin
+david kappel
+daniel levy
+oleg rybakov
+girish raguvir j
+weinan e
+farzan farnia
+chedy raïssi
+konstantinos bousmalis
+greg wayne
+zhibo gong
+rosanne liu
+naveen suda
+isabella pozzi
+wolfgang maass
+yingbin liang
+cihang xie
+alexander peysakhovich
+daniel jiwoong im
+nikita shustrov
+eduard hovy
+michael w mahoney
+oran shayer
+jon kleinberg
+feifei li
+enea ceolini
+anthreas antoniou
+christopher kanan
+david hallac
+kunal talwar
+chao zhang
+roman novak
+zhilin yang
+catherine wong
+edward grant
+leo dirac
+wei ping
+stefan braun
+andrej junginger
+hungyi lee
+andrew kyle lampinen
+ashish khetan
+emmanuel daucé
+sami abuelhaija
+eirikur agustsson
+jakub konečný
+baraniuk r
+parikshit s hegde
+robert e schapire
+devendra singh chaplot
+alexander heinecke
+zhenyao zhu
+chiu man ho
+shane gu
+rudolf mathar
+william w cohen
+jimmy yang
+rishabh singh
+oscar chang
+tiziano  portenier
+meisam razaviyayn
+nitish gupta
+jiang wang
+ajay kannan
+gabriel synnaeve
+ruslan salakhutdinov
+luke vilnis
+xingjun ma
+olexa bilaniuk
+taihong xiao
+yang liu
+tiago pimentel
+konrad kording
+indranil gupta
+kevin lyman
+nicolas thome
+voot tangkaratt
+chundi lui
+ferran parés
+fabio pardo
+rein houthooft
+inci m baytas
+zohar ringel
+bharat kaul
+barnabás póczos
+erman ayday
+shami nisimov
+huizi mao
+yelong shen
+thomas frerix
+david m blei
+kushal chawla
+emilio parisotto
+mateo rojascarulla
+eugenio piasini
+warren he
+yamini bansal
+mehmet fatih amasyali
+itay hubara
+william m severa
+ron kimmel
+hongyuan zha
+samuel stern schoenholz
+jeremie zumer
+david reichert
+gözde bozdaği akar
+blue sheffer
+amy zhang
+maryam fazel
+shafiq joty
+anima anandkumar
+saibal mukhopadhyay
+christian buck
+thomas unterthiner
+albert shaw
+clark zhang
+howie choset
+maya kabkab
+satinder singh
+max tegmark
+or sharir
+abdallah aboutahoun
+phillip isola
+jacob buckman
+vitchyr pong
+klaus greff
+volodymyr mnih
+justin johnson
+farinaz koushanfar
+fumihiro sasaki
+gal novik
+chulhee yun
+alexis conneau
+calin belta
+aleksandar bojchevski
+jinwen ma
+james jordon
+anna goldie
+shuchin aeron
+srikumar ramalingam
+nicolas martin
+mengmi zhang
+yao ma
+asim kadav
+emilia barakova
+nikunj saunshi
+julien page
+victor ok li
+rumen dangovski
+inbar mosseri
+jannis bulian
+ronen basri
+seiya takenaka
+akshay krishnamurthy
+cheng tang
+minjoon seo
+robert adolf
+paolo gasti
+vadim pirogov
+liqiang wang
+federico monti
+eric xing
+david tse
+ananth raghunathan
+michael andersch
+francisco ruiz
+alexey dosovitskiy
+arka pal
+chojui hsieh
+leshem choshen
+fabrizio pedersoli
+david yakira
+emmanuel ekwedike
+stephan gouws
+samuel l smith and quoc v le
+glen berseth
+yutian chen
+elad hazan
+vitor guizilini
+mohammad alizadeh
+gabor melis
+yang yuan
+rob fergus
+shie mannor
+leonard berrada
+regina barzilay
+victor zhong
+andrzej cichocki
+jing jiang
+joanne bechta dugan
+daniel l k yamins
+raanan y yehezkel rohekar
+pierreyves oudeyer
+simon lacostejulien
+aaron courville
+jiri hron
+lawrence b holder
+yuichi yoshida
+douwe kiela
+sergey levine
+zhuohan li
+jan kukačka
+jacob abernethy
+bharath bhushan damodaran
+qiang liu
+yitao liang
+chunliang li
+anupam datta
+stephan hoyer
+philippe donnat
+parsa mahmoudieh
+jonathan lorraine
+ke tran
+jan mathias koehler
+olof mogren
+shiqi liu
+amir globerson
+jan buys
+fangchen liu
+alyosha efros
+joseph futoma
+zheng zhang
+nicholas carlini
+nicholas ruozzi
+sebastian nowozin
+legrand joël
+kyunghyun cho
+douglas eck
+david abel
+marc sanselme
+christopher grimm
+andrej risteski
+nick johnston
+javier fernández marqués
+eric undersander
+kan ren
+animashree anandkumar
+shirin dora
+marcin andrychowicz
+vitalii zhelezniak
+dino s ratcliffe
+peter wittek
+aurko roy
+sherjil ozair
+kota tsubouchi
+emin orhan
+william fedus
+xuhong li
+chongyang tao
+nathan o hodas
+lisha li
+yisong yue
+mohamed amer
+adhiguna kuncoro
+ioannis mitliagkas
+georges quénot
+chenguang zhu
+jascha sohldickstein
+graham w taylor
+brian bullins
+roma dubtsov
+song han
+jordi torres
+chinwei huang
+lior fox
+rey wiyatno
+qiyang  hu
+yan zhu
+xu he
+xuexin wei
+swarat chaudhuri
+mark d mcdonnell
+hirokazu narui
+nebojsa jojic
+ryan k l ko
+katrina evtimova
+harm van seijen
+aras dargazany
+david begert
+hieu pham
+siyuan qiao
+andrea gane
+eric bailey
+kartik ahuja
+benson chen
+miao liu
+samira ebrahimi kahou
+kunkun pang
+yiming zhang
+geoff holmes
+chenwei zhang
+quentin stout
+rui liu
+sriram vishwanath
+hongyang gao
+vincent michalski
+hu xu
+letao qi
+ramakrishna vedantam
+qixuan huang
+magda gregorova
+benjamin paul chamberlain
+joshua b tenenbaum
+timothy p lillicrap
+kuanwen huang
+yang zheng
+dung thai
+yin zheng
+eamonn keogh
+hao li
+stavros theodorakis
+pulkit agrawal
+guy katz
+hervé jégou
+yihan jiang
+luca daniel
+raman arora
+keerthiram murugesan
+georgios arvanitidis
+lei shu
+daphne ippolito
+franck davoine
+benigno uria
+yanting liou
+udo kruschwitz
+kunal mankodiya
+takuro kutsuna
+james martens
+dibya ghosh
+shiv shankar
+zhuoran yang
+cewu lu
+dumitru erhan
+jaan altosaar
+lajanugen logeswaran
+daniel crawford
+vijay vasudevan
+artemy kolchinsky
+guillem cucurull
+björn schuller
+jesse dodge
+tao yu
+scott legrand
+miltiadis allamanis
+fang liu
+alexander trott
+cristóbal esteban
+michael tsang
+hideki nakayama
+alexandros g dimakis
+tyler j jarvis
+martin heusel
+pratik chaudhari
+richard wei
+boaz nadler
+masashi sugiyama
+hisashi miyamori
+shuai tang
+sohil shah
+jingzhou liu
+jihun hamm
+milan aggarwal
+dongsoo lee
+brooks paige
+xinyang geng
+daniel cohenor
+jianfei chen
+qiao liu
+michel desmarais
+bo xin
+julius adebayo
+abubakar abid
+julien perez
+cheolkon jung
+xiaopeng li
+xipeng lan
+shuangjiu xiao
+ryan turner
+yingzhen yang
+akshay balsubramani
+fabio ramos
+masakazu iwamura
+jeremy d bernstein
+mingoo seok
+xiaowei zhou
+saumya jetley
+andrew hallam
+gwo giun chris lee
+sunita sarawagi
+frank hutter
+andrew drozdov
+heechang ryu
+jungwook choi
+keng teck ma
+boris ginsburg
+francois w belletti
+yuke zhu
+oleksii kuchaiev
+matthai philipose
+jaesik choi
+sakyasingha dasgupta
+olivier sigaud
+w james murdoch
+ryan sepassi
+john quan
+qinliang su
+junier oliva
+eric martin
+alexander novikov
+rujie liu
+jaime g carbonell
+anthony meehan
+nicholas frosst
+geoffrey e hinton
+herke van hoof
+katya gonina
+mahito sugiyama
+isabelle guyon
+sercan o arik
+zhengyang wang
+yiqiu wang
+sinead williamson
+zongpeng li
+pierce ijen chuang
+dongyan zhao
+vladimir golkov
+chunmin chang
+yoshihiro yamada
+yannic kilcher
+enda liu
+christopher j cueva
+jennifer tang
+jaehoon lee
+clemens rosenbaum
+jinwook oh
+james b aimone
+kevin y huang
+jiachen yang
+huan wang
+maciej lewenstein
+hao liu
+sebastien racaniere
+george philipp
+adriana romero
+stephanie mallard
+jianyuan zhang
+zufeng wu
+zhenhua ling
+sara sabour
+ion stoica
+ari s morcos
+david krueger
+arantxa casanova
+adith swaminathan
+zheng xu
+ayan chakrabarti
+holger ulmer
+dong su
+james zou
+tsuiwei weng
+ran le
+vincent chen
+jiaxin shi
+nicolas usunier
+colin raffel
+bo zong
+jiapeng hong
+pranava madhyastha
+jonatan moreno
+chang wen chen
+thomas lampe
+shuang wu
+adji b dieng
+aleksei triastcyn
+dhiraj kalamkar
+christopher d manning
+sarah monazam erfani
+michalis vazirgiannis
+garrett wirka
+and jan kleindienst
+yaushian wang
+richard shin
+andy kitchen
+kamyar azizzadenesheli
+richard y chen
+nando de freitas
+dominik janzing
+matthew hoffman
+vikram adve
+nicolas pugeault
+abdullah mueen
+kimhui yap
+mohamed ahmed
+oriol vinyals
+zhouyuan li
+qian chen
+marissa connor
+heng luo
+matthias rauterberg
+jeffrey bowers
+bill dally
+mingyan liu
+alessandro sordoni
+jános kramár
+charles meyer
+gilles wainrib
+ole winther
+akilesh b
+george banweiss
+josé p gonzálezbrenes
+guillaume bellec
+andrea gesmundo
+yoav artzi
+guy delamarter
+alex x lee
+akram erraqabi
+vihari piratla
+jing li
+melody y guan
+matt gardner
+yan duan
+martin renqiang min
+jesus corbal
+thomas l griffiths
+cijo jose
+wenpeng hu
+malte probst
+james bailey
+ronen tamari
+nir shavit
+yu zhang
+xuechen li
+gurneet singh
+kai j miller
+riaan zoetmulder
+kosuke kusano
+sugandha doda
+slava voloshynovskiy
+david brooks
+saizheng zhang
+keith m chugg
+gil keren
+gregory d hager
+tim genewein
+vikash gilja
+soroush mehri
+thomas münch
+marleen balvert
+shihcheng yen
+abbas abdolmaleki
+yonatan bisk
+ulrich paquet
+david duvenaud
+james hays
+weizhu chen
+juan sebastian olier
+clark barrett
+kate saenko
+weinan zhang
+han zhang
+benjamin j meyer
+zilu zhang
+zhao chen
+yuxiao dong
+zilu ma
+xiaojun xu
+bin dong
+josé miguel hernándezlobato
+rasmus berg palm
+jeff schneider
+hang wu
+jakob verbeek
+hanshu yan
+andrei rusu
+joo hwee lim
+yoichi ishibashi
+shaun barry
+bin hu
+soroosh khoram
+joao  p costeira
+hae beom lee
+tom sercu
+ben goodrich
+yoav levine
+hyunghun cho
+glotin h
+hanzhang hu
+elman mansimov
+saran tunyasuvunakool
+jeannette bohg
+thang luong
+ilya mironov
+ranvir b rana
